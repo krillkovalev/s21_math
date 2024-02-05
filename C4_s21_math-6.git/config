@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = ssh://git@repos-ssh.21-school.ru:2289/students/C4_s21_math.ID_353528/Team__TL__felicidd_student.21_school.ru_.afF50nvKTuWIetQo_BV78Q/C4_s21_math-6.git
+	fetch = +refs/*:refs/*
+	mirror = true
